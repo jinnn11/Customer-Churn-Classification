@@ -1,0 +1,15 @@
+artifact_uri: /Users/Swaminathan/Desktop/all_code_base/eas503_final_project/housing_app_fall25/notebooks/dpg-d5256sv5r7bs739ugro0-a.ohio-postgres.render.com/412852327008676579/f5f707ee03d24a5080e44bc3b4bf0102/artifacts
+end_time: 1766086700857
+entry_point_name: ''
+experiment_id: '412852327008676579'
+lifecycle_stage: active
+run_id: f5f707ee03d24a5080e44bc3b4bf0102
+run_name: ridge_with_pca
+run_uuid: f5f707ee03d24a5080e44bc3b4bf0102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766086698765
+status: 3
+tags: []
+user_id: Swaminathan

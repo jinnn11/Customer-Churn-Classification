@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Swaminathan/Desktop/all_code_base/eas503_final_project/housing_app_fall25/notebooks/mlruns/429562327006293505/0b4461b47f88429591f317be2ff74cdf/artifacts
+end_time: 1766087101479
+entry_point_name: ''
+experiment_id: '429562327006293505'
+lifecycle_stage: active
+run_id: 0b4461b47f88429591f317be2ff74cdf
+run_name: histgradientboosting_no_PCA_optuna
+run_uuid: 0b4461b47f88429591f317be2ff74cdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766087099293
+status: 3
+tags: []
+user_id: Swaminathan

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Swaminathan/Desktop/all_code_base/eas503_final_project/housing_app_fall25/notebooks/mlruns/429562327006293505/d9306f1cff474ecaac286f1c0c02dd0d/artifacts
+end_time: 1766087134571
+entry_point_name: ''
+experiment_id: '429562327006293505'
+lifecycle_stage: active
+run_id: d9306f1cff474ecaac286f1c0c02dd0d
+run_name: ridge_with_PCA_optuna
+run_uuid: d9306f1cff474ecaac286f1c0c02dd0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766087131907
+status: 3
+tags: []
+user_id: Swaminathan

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/Swaminathan/Desktop/all_code_base/eas503_final_project/housing_app_fall25/notebooks/mlruns/429562327006293505
+creation_time: 1766086945841
+experiment_id: '429562327006293505'
+last_update_time: 1766086945841
+lifecycle_stage: active
+name: telco_churn_optuna_experiments

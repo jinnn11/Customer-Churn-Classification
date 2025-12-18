@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Swaminathan/Desktop/all_code_base/eas503_final_project/housing_app_fall25/notebooks/mlruns/429562327006293505/85297c876a50436da26bdf7622a65954/artifacts
+end_time: 1766087104995
+entry_point_name: ''
+experiment_id: '429562327006293505'
+lifecycle_stage: active
+run_id: 85297c876a50436da26bdf7622a65954
+run_name: xgboost_no_PCA_optuna
+run_uuid: 85297c876a50436da26bdf7622a65954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766087103024
+status: 3
+tags: []
+user_id: Swaminathan

@@ -1,0 +1,15 @@
+artifact_uri: /Users/Swaminathan/Desktop/all_code_base/eas503_final_project/housing_app_fall25/notebooks/dpg-d5256sv5r7bs739ugro0-a.ohio-postgres.render.com/412852327008676579/eb3f780628e140c7821d060fe293c48b/artifacts
+end_time: 1766086698497
+entry_point_name: ''
+experiment_id: '412852327008676579'
+lifecycle_stage: active
+run_id: eb3f780628e140c7821d060fe293c48b
+run_name: lightgbm_baseline
+run_uuid: eb3f780628e140c7821d060fe293c48b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766086696139
+status: 3
+tags: []
+user_id: Swaminathan

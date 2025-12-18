@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Swaminathan/Desktop/all_code_base/eas503_final_project/housing_app_fall25/notebooks/mlruns/429562327006293505/00ed5c1fea1244d1a423c0ed703ecf03/artifacts
+end_time: 1766087174173
+entry_point_name: ''
+experiment_id: '429562327006293505'
+lifecycle_stage: active
+run_id: 00ed5c1fea1244d1a423c0ed703ecf03
+run_name: lightgbm_with_PCA_optuna
+run_uuid: 00ed5c1fea1244d1a423c0ed703ecf03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766087171588
+status: 3
+tags: []
+user_id: Swaminathan

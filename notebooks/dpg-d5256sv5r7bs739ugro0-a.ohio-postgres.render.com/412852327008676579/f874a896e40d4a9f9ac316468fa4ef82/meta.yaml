@@ -1,0 +1,15 @@
+artifact_uri: /Users/Swaminathan/Desktop/all_code_base/eas503_final_project/housing_app_fall25/notebooks/dpg-d5256sv5r7bs739ugro0-a.ohio-postgres.render.com/412852327008676579/f874a896e40d4a9f9ac316468fa4ef82/artifacts
+end_time: 1766086685872
+entry_point_name: ''
+experiment_id: '412852327008676579'
+lifecycle_stage: active
+run_id: f874a896e40d4a9f9ac316468fa4ef82
+run_name: histgradientboosting_baseline
+run_uuid: f874a896e40d4a9f9ac316468fa4ef82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766086683305
+status: 3
+tags: []
+user_id: Swaminathan

@@ -1,0 +1,96 @@
+{
+    "numerical": {
+        "tenure": {
+            "min": 0.0,
+            "max": 72.0,
+            "mean": 32.37114865824223
+        },
+        "monthlycharges": {
+            "min": 18.25,
+            "max": 118.75,
+            "mean": 64.76169246059918
+        },
+        "totalcharges": {
+            "min": 0.0,
+            "max": 8684.8,
+            "mean": 2279.7343035638223
+        }
+    },
+    "categorical": {
+        "gender": [
+            "Female",
+            "Male"
+        ],
+        "seniorcitizen": [
+            "0",
+            "1"
+        ],
+        "partner": [
+            "No",
+            "Yes"
+        ],
+        "dependents": [
+            "No",
+            "Yes"
+        ],
+        "phoneservice": [
+            "No",
+            "Yes"
+        ],
+        "multiplelines": [
+            "No",
+            "No phone service",
+            "Yes"
+        ],
+        "internetservice": [
+            "DSL",
+            "Fiber optic",
+            "No"
+        ],
+        "onlinesecurity": [
+            "No",
+            "No internet service",
+            "Yes"
+        ],
+        "onlinebackup": [
+            "No",
+            "No internet service",
+            "Yes"
+        ],
+        "deviceprotection": [
+            "No",
+            "No internet service",
+            "Yes"
+        ],
+        "techsupport": [
+            "No",
+            "No internet service",
+            "Yes"
+        ],
+        "streamingtv": [
+            "No",
+            "No internet service",
+            "Yes"
+        ],
+        "streamingmovies": [
+            "No",
+            "No internet service",
+            "Yes"
+        ],
+        "contract": [
+            "Month-to-month",
+            "One year",
+            "Two year"
+        ],
+        "paperlessbilling": [
+            "No",
+            "Yes"
+        ],
+        "paymentmethod": [
+            "Bank transfer (automatic)",
+            "Credit card (automatic)",
+            "Electronic check",
+            "Mailed check"
+        ]
+    }
+}
