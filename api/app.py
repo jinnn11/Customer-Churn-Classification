@@ -15,7 +15,6 @@ app = FastAPI(
 
 MODEL_PATH = "models/global_best_model_optuna.pkl"
 
-# 2. Debugging: Check if file exists inside Docker
 if os.path.exists(MODEL_PATH):
     print(f"✓ Found model at: {MODEL_PATH}")
     try:

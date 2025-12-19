@@ -142,7 +142,6 @@ if st.button("🔮 Predict Churn Risk", type="primary"):
 
     with st.spinner("Analyzing Customer Data..."):
         try:
-            # Telco API expects the dictionary directly (Pydantic), NOT wrapped in {"instances": []}
             resp = requests.post(PREDICT_ENDPOINT, json=user_input, timeout=30)
         except requests.exceptions.RequestException as e:
             st.error(f"❌ Connection Failed: {e}")
